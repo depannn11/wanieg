@@ -273,4 +273,4 @@ Punya pertanyaan? Buka issue atau contact melalui GitHub.
 
 ---
 
-**Made with ❤️**
+**Made with ❤️ using v0**
